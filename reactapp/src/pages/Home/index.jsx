@@ -1,4 +1,8 @@
-function Home() {
+import './styles.css'
+
+
+
+export function Home() {
 
   return (
     <>
@@ -8,4 +12,3 @@ function Home() {
     </>
   )
 }
-export default Home
