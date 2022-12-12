@@ -8,6 +8,7 @@ type ProfileResponse = {
   avatar_url: string;
 }
 
+
 type User = {
   name: string;
   avatar: string;
